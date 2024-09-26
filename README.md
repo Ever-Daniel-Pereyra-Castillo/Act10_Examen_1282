@@ -1,4 +1,15 @@
 # Act10_Examen_1282
 Examen
-![IMG-20240926-WA0008](https://github.com/user-attachments/assets/91aac0b5-228e-4484-96dc-7071c1bc1163)
-![IMG-20240926-WA0009](https://github.com/user-attachments/assets/c659a568-4508-4711-b47f-7298ceb80997)
+
+- Código
+  
+![image](https://github.com/user-attachments/assets/e559ca66-8889-4756-96b3-1bb2bc681b44)
+![image](https://github.com/user-attachments/assets/d68ba7cc-406a-4e12-9b56-1c0af5b31249)
+
+- Resultado
+
+![image](https://github.com/user-attachments/assets/d20f7d13-293d-4967-bdc2-8a5eca616f31)
+
+
+
+
